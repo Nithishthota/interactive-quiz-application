@@ -40,7 +40,8 @@ Students practicing for exams.
 Teachers conducting online tests.
 
 Casual users testing general knowledge.
-
+ OUTPUT
+  [Image!](https://github.com/user-attachments/assets/b248dd3f-f7e3-490c-8895-2b17fc1ca024)
 
 
 
