@@ -51,4 +51,3 @@ Casual users testing general knowledge.
 
 
 
-Use ChatGPT for every
